@@ -1,0 +1,11 @@
+export { default as api } from "./api";
+export { authService } from "./auth";
+export { studentsService } from "./students";
+export { attendanceService } from "./attendance";
+export { marksService } from "./marks";
+export { feesService } from "./fees";
+export { timetableService } from "./timetable";
+export { coursesService } from "./courses";
+export { subjectsService } from "./subjects";
+export { departmentsService } from "./departments";
+export { facultyService } from "./faculty";
